@@ -4,15 +4,15 @@
 
 #### Registration is decomposed into:
 
-- **target**
+- **target**  
   object that will stay static
-- **reference**
+- **reference**  
   object that will be transformed to be mapped to **target**
-- **transform**
+- **transform**  
   mapping that will convert **reference** to match **target**
-- **metric**
+- **metric**  
   'precision' of mapping
-- **mapper**
+- **mapper**  
   technique that will interpolate values when objects are resampled through transform
-- **optimizer**
+- **optimizer**  
   finds **transform** parameters which will optimize **metric**
