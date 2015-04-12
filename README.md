@@ -1,4 +1,4 @@
 # Registration
 
-[Official documentation](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+[Official documentation](http://www.itk.org/Doxygen/html/RegistrationPage.html)
 
