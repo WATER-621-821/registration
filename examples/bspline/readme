@@ -1,3 +1,7 @@
 From documentation:
 
 "Spline: A kernel based spline is used to interpolate a mapping from a pair of point sets."
+
+Link to example:
+
+http://itk.org/Wiki/ITK/Examples/Registration/ImageRegistrationMethodBSpline
