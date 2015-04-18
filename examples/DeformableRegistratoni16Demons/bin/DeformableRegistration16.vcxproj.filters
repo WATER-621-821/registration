@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\src\DeformableRegistration16.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06E44ED3-90DA-4FC5-9484-47E213CC7DAC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
