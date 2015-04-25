@@ -27,7 +27,7 @@ You have to have the following hierarchy:
 Put images into f/ (stands for fixed) and m/ (stands for moving).
 Then run
 
-    `DeformableRegistration16.exe f m out1 out2`
+    DeformableRegistration16.exe f m out1 out2
     
 Registered images will appear in out1.
 Registration will take around 3-4 hours. 
