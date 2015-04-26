@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\bad3879e577688b5c9be7db4dd1a39f4\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\807d468c8c9d34347a480a5692ff57eb\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{3F5C39BD-8C6B-458A-A127-BE58A07B4117}</UniqueIdentifier>
+      <UniqueIdentifier>{EB2935AD-9B43-4521-9CE0-C1CCE1BCC804}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

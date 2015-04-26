@@ -10,8 +10,8 @@ Microsoft (R) Build Engine version 12.0.30501.0
 [Microsoft .NET Framework, version 4.0.30319.18449]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 4/18/2015 11:25:03 AM.
-Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+Build started 4/25/2015 12:14:38 PM.
+Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
 PrepareForBuild:
   Creating directory "Debug\".
   Creating directory "Debug\CompilerIdC.tlog\".
@@ -22,7 +22,7 @@ ClCompile:
   CMakeCCompilerId.c
 Link:
   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
-  CompilerIdC.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdC\.\CompilerIdC.exe
+  CompilerIdC.vcxproj -> C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdC\.\CompilerIdC.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
   :VCEnd
@@ -30,20 +30,20 @@ PostBuildEvent:
 FinalizeBuildStatus:
   Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
   Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
-Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdC\CompilerIdC.vcxproj" (default targets).
 
 Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:01.79
+Time Elapsed 00:00:01.65
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
 
-The C compiler identification is MSVC, found in "C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/3.2.2/CompilerIdC/CompilerIdC.exe"
+The C compiler identification is MSVC, found in "C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/3.2.2/CompilerIdC/CompilerIdC.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler:  
@@ -56,8 +56,8 @@ Microsoft (R) Build Engine version 12.0.30501.0
 [Microsoft .NET Framework, version 4.0.30319.18449]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 4/18/2015 11:25:06 AM.
-Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+Build started 4/25/2015 12:14:40 PM.
+Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
 PrepareForBuild:
   Creating directory "Debug\".
   Creating directory "Debug\CompilerIdCXX.tlog\".
@@ -68,7 +68,7 @@ ClCompile:
   CMakeCXXCompilerId.cpp
 Link:
   C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
-  CompilerIdCXX.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdCXX\.\CompilerIdCXX.exe
+  CompilerIdCXX.vcxproj -> C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdCXX\.\CompilerIdCXX.exe
 PostBuildEvent:
   for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
   :VCEnd
@@ -76,216 +76,216 @@ PostBuildEvent:
 FinalizeBuildStatus:
   Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
   Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
-Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\3.2.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
 
 Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:01.01
+Time Elapsed 00:00:01.82
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/3.2.2/CompilerIdCXX/CompilerIdCXX.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/3.2.2/CompilerIdCXX/CompilerIdCXX.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2267549057.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2837549091.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine version 12.0.30501.0
 [Microsoft .NET Framework, version 4.0.30319.18449]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 4/18/2015 11:25:07 AM.
-Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2267549057.vcxproj" on node 1 (default targets).
+Build started 4/25/2015 12:14:43 PM.
+Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2837549091.vcxproj" on node 1 (default targets).
 PrepareForBuild:
-  Creating directory "cmTryCompileExec2267549057.dir\Debug\".
-  Creating directory "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
-  Creating directory "cmTryCompileExec2267549057.dir\Debug\cmTryCom.9981C0CB.tlog\".
+  Creating directory "cmTryCompileExec2837549091.dir\Debug\".
+  Creating directory "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2837549091.dir\Debug\cmTryCom.CA686400.tlog\".
 InitializeBuildStatus:
-  Creating "cmTryCompileExec2267549057.dir\Debug\cmTryCom.9981C0CB.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+  Creating "cmTryCompileExec2837549091.dir\Debug\cmTryCom.CA686400.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2267549057.dir\Debug\\" /Fd"cmTryCompileExec2267549057.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCCompiler.c"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2837549091.dir\Debug\\" /Fd"cmTryCompileExec2837549091.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCCompiler.c
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.30501 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2267549057.dir\Debug\\" /Fd"cmTryCompileExec2267549057.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCCompiler.c"
-  testCCompiler.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2837549091.dir\Debug\\" /Fd"cmTryCompileExec2837549091.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCCompiler.c
   
+  testCCompiler.c
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2267549057.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2267549057.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2267549057.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec2267549057.dir\Debug\testCCompiler.obj
-  cmTryCompileExec2267549057.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2267549057.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2837549091.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2837549091.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2837549091.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec2837549091.dir\Debug\testCCompiler.obj
+  cmTryCompileExec2837549091.vcxproj -> C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2837549091.exe
 FinalizeBuildStatus:
-  Deleting file "cmTryCompileExec2267549057.dir\Debug\cmTryCom.9981C0CB.tlog\unsuccessfulbuild".
-  Touching "cmTryCompileExec2267549057.dir\Debug\cmTryCom.9981C0CB.tlog\cmTryCompileExec2267549057.lastbuildstate".
-Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2267549057.vcxproj" (default targets).
+  Deleting file "cmTryCompileExec2837549091.dir\Debug\cmTryCom.CA686400.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2837549091.dir\Debug\cmTryCom.CA686400.tlog\cmTryCompileExec2837549091.lastbuildstate".
+Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2837549091.vcxproj" (default targets).
 
 Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.91
+Time Elapsed 00:00:02.25
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec465143914.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1587129651.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine version 12.0.30501.0
 [Microsoft .NET Framework, version 4.0.30319.18449]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 4/18/2015 11:25:08 AM.
-Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec465143914.vcxproj" on node 1 (default targets).
+Build started 4/25/2015 12:14:46 PM.
+Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1587129651.vcxproj" on node 1 (default targets).
 PrepareForBuild:
-  Creating directory "cmTryCompileExec465143914.dir\Debug\".
-  Creating directory "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
-  Creating directory "cmTryCompileExec465143914.dir\Debug\cmTryCom.82ACF39D.tlog\".
+  Creating directory "cmTryCompileExec1587129651.dir\Debug\".
+  Creating directory "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1587129651.dir\Debug\cmTryCom.8D6ED551.tlog\".
 InitializeBuildStatus:
-  Creating "cmTryCompileExec465143914.dir\Debug\cmTryCom.82ACF39D.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+  Creating "cmTryCompileExec1587129651.dir\Debug\cmTryCom.8D6ED551.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec465143914.dir\Debug\\" /Fd"cmTryCompileExec465143914.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1587129651.dir\Debug\\" /Fd"cmTryCompileExec1587129651.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.30501 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec465143914.dir\Debug\\" /Fd"cmTryCompileExec465143914.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec1587129651.dir\Debug\\" /Fd"cmTryCompileExec1587129651.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
   
   CMakeCCompilerABI.c
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec465143914.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec465143914.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec465143914.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec465143914.dir\Debug\CMakeCCompilerABI.obj
-  cmTryCompileExec465143914.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec465143914.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1587129651.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1587129651.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1587129651.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1587129651.dir\Debug\CMakeCCompilerABI.obj
+  cmTryCompileExec1587129651.vcxproj -> C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1587129651.exe
 FinalizeBuildStatus:
-  Deleting file "cmTryCompileExec465143914.dir\Debug\cmTryCom.82ACF39D.tlog\unsuccessfulbuild".
-  Touching "cmTryCompileExec465143914.dir\Debug\cmTryCom.82ACF39D.tlog\cmTryCompileExec465143914.lastbuildstate".
-Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec465143914.vcxproj" (default targets).
+  Deleting file "cmTryCompileExec1587129651.dir\Debug\cmTryCom.8D6ED551.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1587129651.dir\Debug\cmTryCom.8D6ED551.tlog\cmTryCompileExec1587129651.lastbuildstate".
+Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1587129651.vcxproj" (default targets).
 
 Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.76
+Time Elapsed 00:00:00.93
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2369735818.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1096910933.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine version 12.0.30501.0
 [Microsoft .NET Framework, version 4.0.30319.18449]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 4/18/2015 11:25:10 AM.
-Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2369735818.vcxproj" on node 1 (default targets).
+Build started 4/25/2015 12:14:48 PM.
+Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1096910933.vcxproj" on node 1 (default targets).
 PrepareForBuild:
-  Creating directory "cmTryCompileExec2369735818.dir\Debug\".
-  Creating directory "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
-  Creating directory "cmTryCompileExec2369735818.dir\Debug\cmTryCom.C64FFC9E.tlog\".
+  Creating directory "cmTryCompileExec1096910933.dir\Debug\".
+  Creating directory "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1096910933.dir\Debug\cmTryCom.12950105.tlog\".
 InitializeBuildStatus:
-  Creating "cmTryCompileExec2369735818.dir\Debug\cmTryCom.C64FFC9E.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+  Creating "cmTryCompileExec1096910933.dir\Debug\cmTryCom.12950105.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2369735818.dir\Debug\\" /Fd"cmTryCompileExec2369735818.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1096910933.dir\Debug\\" /Fd"cmTryCompileExec1096910933.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.30501 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2369735818.dir\Debug\\" /Fd"cmTryCompileExec2369735818.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1096910933.dir\Debug\\" /Fd"cmTryCompileExec1096910933.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
   
   testCXXCompiler.cxx
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2369735818.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2369735818.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2369735818.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec2369735818.dir\Debug\testCXXCompiler.obj
-  cmTryCompileExec2369735818.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2369735818.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1096910933.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1096910933.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1096910933.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1096910933.dir\Debug\testCXXCompiler.obj
+  cmTryCompileExec1096910933.vcxproj -> C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1096910933.exe
 FinalizeBuildStatus:
-  Deleting file "cmTryCompileExec2369735818.dir\Debug\cmTryCom.C64FFC9E.tlog\unsuccessfulbuild".
-  Touching "cmTryCompileExec2369735818.dir\Debug\cmTryCom.C64FFC9E.tlog\cmTryCompileExec2369735818.lastbuildstate".
-Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2369735818.vcxproj" (default targets).
+  Deleting file "cmTryCompileExec1096910933.dir\Debug\cmTryCom.12950105.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1096910933.dir\Debug\cmTryCom.12950105.tlog\cmTryCompileExec1096910933.lastbuildstate".
+Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1096910933.vcxproj" (default targets).
 
 Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:01.73
+Time Elapsed 00:00:01.26
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec2930041108.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1406741152.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine version 12.0.30501.0
 [Microsoft .NET Framework, version 4.0.30319.18449]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 4/18/2015 11:25:12 AM.
-Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2930041108.vcxproj" on node 1 (default targets).
+Build started 4/25/2015 12:14:50 PM.
+Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1406741152.vcxproj" on node 1 (default targets).
 PrepareForBuild:
-  Creating directory "cmTryCompileExec2930041108.dir\Debug\".
-  Creating directory "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
-  Creating directory "cmTryCompileExec2930041108.dir\Debug\cmTryCom.25BFB589.tlog\".
+  Creating directory "cmTryCompileExec1406741152.dir\Debug\".
+  Creating directory "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1406741152.dir\Debug\cmTryCom.5938292D.tlog\".
 InitializeBuildStatus:
-  Creating "cmTryCompileExec2930041108.dir\Debug\cmTryCom.25BFB589.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+  Creating "cmTryCompileExec1406741152.dir\Debug\cmTryCom.5938292D.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2930041108.dir\Debug\\" /Fd"cmTryCompileExec2930041108.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1406741152.dir\Debug\\" /Fd"cmTryCompileExec1406741152.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.30501 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2930041108.dir\Debug\\" /Fd"cmTryCompileExec2930041108.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1406741152.dir\Debug\\" /Fd"cmTryCompileExec1406741152.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
   
   CMakeCXXCompilerABI.cpp
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2930041108.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2930041108.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2930041108.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec2930041108.dir\Debug\CMakeCXXCompilerABI.obj
-  cmTryCompileExec2930041108.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2930041108.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1406741152.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1406741152.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1406741152.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1406741152.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTryCompileExec1406741152.vcxproj -> C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1406741152.exe
 FinalizeBuildStatus:
-  Deleting file "cmTryCompileExec2930041108.dir\Debug\cmTryCom.25BFB589.tlog\unsuccessfulbuild".
-  Touching "cmTryCompileExec2930041108.dir\Debug\cmTryCom.25BFB589.tlog\cmTryCompileExec2930041108.lastbuildstate".
-Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec2930041108.vcxproj" (default targets).
+  Deleting file "cmTryCompileExec1406741152.dir\Debug\cmTryCom.5938292D.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1406741152.dir\Debug\cmTryCom.5938292D.tlog\cmTryCompileExec1406741152.lastbuildstate".
+Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1406741152.vcxproj" (default targets).
 
 Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:01.31
+Time Elapsed 00:00:01.75
 
 
 
 
 Detecting CXX [] compiler features compiled with the following output:
-Change Dir: C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec1925611245.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTryCompileExec3733187557.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
 Microsoft (R) Build Engine version 12.0.30501.0
 [Microsoft .NET Framework, version 4.0.30319.18449]
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 4/18/2015 11:25:14 AM.
-Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1925611245.vcxproj" on node 1 (default targets).
+Build started 4/25/2015 12:14:52 PM.
+Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3733187557.vcxproj" on node 1 (default targets).
 PrepareForBuild:
-  Creating directory "cmTryCompileExec1925611245.dir\Debug\".
-  Creating directory "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
-  Creating directory "cmTryCompileExec1925611245.dir\Debug\cmTryCom.E03C3DA4.tlog\".
+  Creating directory "cmTryCompileExec3733187557.dir\Debug\".
+  Creating directory "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3733187557.dir\Debug\cmTryCom.50B61B9A.tlog\".
 InitializeBuildStatus:
-  Creating "cmTryCompileExec1925611245.dir\Debug\cmTryCom.E03C3DA4.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+  Creating "cmTryCompileExec3733187557.dir\Debug\cmTryCom.50B61B9A.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
 ClCompile:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1925611245.dir\Debug\\" /Fd"cmTryCompileExec1925611245.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\feature_tests.cxx"
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3733187557.dir\Debug\\" /Fd"cmTryCompileExec3733187557.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\feature_tests.cxx
   Microsoft (R) C/C++ Optimizing Compiler Version 18.00.30501 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   
-  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec1925611245.dir\Debug\\" /Fd"cmTryCompileExec1925611245.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\feature_tests.cxx"
-  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3733187557.dir\Debug\\" /Fd"cmTryCompileExec3733187557.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\feature_tests.cxx
   feature_tests.cxx
+  
 Link:
-  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1925611245.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1925611245.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1925611245.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec1925611245.dir\Debug\feature_tests.obj
-  cmTryCompileExec1925611245.vcxproj -> C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1925611245.exe
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3733187557.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3733187557.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3733187557.lib" /MACHINE:X64  /machine:x64 /debug cmTryCompileExec3733187557.dir\Debug\feature_tests.obj
+  cmTryCompileExec3733187557.vcxproj -> C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3733187557.exe
 FinalizeBuildStatus:
-  Deleting file "cmTryCompileExec1925611245.dir\Debug\cmTryCom.E03C3DA4.tlog\unsuccessfulbuild".
-  Touching "cmTryCompileExec1925611245.dir\Debug\cmTryCom.E03C3DA4.tlog\cmTryCompileExec1925611245.lastbuildstate".
-Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec1925611245.vcxproj" (default targets).
+  Deleting file "cmTryCompileExec3733187557.dir\Debug\cmTryCom.50B61B9A.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec3733187557.dir\Debug\cmTryCom.50B61B9A.tlog\cmTryCompileExec3733187557.lastbuildstate".
+Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\CMakeTmp\cmTryCompileExec3733187557.vcxproj" (default targets).
 
 Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.99
+Time Elapsed 00:00:01.64
 
 
     Feature record: CXX_FEATURE:1cxx_alias_templates

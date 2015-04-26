@@ -1,10 +1,10 @@
-﻿Build started 4/18/2015 11:26:21 AM.
-     1>Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\ALL_BUILD.vcxproj" on node 2 (Build target(s)).
+﻿Build started 4/25/2015 12:14:07 PM.
+     1>Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\ALL_BUILD.vcxproj" on node 2 (Rebuild target(s)).
      1>CustomBuild:
          Building Custom Rule C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/src/CMakeLists.txt
-         CMake does not need to re-run because C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\CMakeFiles\generate.stamp is up-to-date.
-     1>Done Building Project "C:\Users\Alex\Documents\Visual Studio 2013\Projects\DeformableRegistratoni16Demons\bin\ALL_BUILD.vcxproj" (Build target(s)).
+         CMake does not need to re-run because C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\CMakeFiles\generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\Alex\Documents\GitHub\registration\examples\DeformableRegistratoni16Demons\bin\ALL_BUILD.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.54
+Time Elapsed 00:00:01.91

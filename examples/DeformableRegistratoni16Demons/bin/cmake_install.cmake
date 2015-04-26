@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Alex/Documents/Visual Studio 2013/Projects/DeformableRegistratoni16Demons/bin/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Alex/Documents/GitHub/registration/examples/DeformableRegistratoni16Demons/bin/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
